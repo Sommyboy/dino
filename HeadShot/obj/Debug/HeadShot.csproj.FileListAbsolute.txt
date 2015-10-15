@@ -1,0 +1,9 @@
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\bin\Debug\PhotoSMS.exe.config
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\obj\Debug\PhotoSMS.exe
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\obj\Debug\PhotoSMS.pdb
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\obj\Debug\HeadShot.csprojResolveAssemblyReference.cache
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\obj\Debug\PhotoSMS.Properties.Resources.resources
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\obj\Debug\HeadShot.csproj.GenerateResource.Cache
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\bin\Debug\PhotoSMS.exe
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\bin\Debug\PhotoSMS.pdb
+D:\satudia\dino\INO1CD399893\SourceCode\HeadShot\bin\Debug\HeadShot.exe.config

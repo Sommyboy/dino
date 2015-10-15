@@ -1,0 +1,11 @@
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\bin\Debug\PhotoSMS.exe.config
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\obj\Debug\PhotoSMS.csprojResolveAssemblyReference.cache
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\obj\Debug\PhotoSMS.Properties.Resources.resources
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\obj\Debug\PhotoSMS.csproj.GenerateResource.Cache
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\bin\Debug\PhotoSMS.exe
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\bin\Debug\PhotoSMS.pdb
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\obj\Debug\PhotoSMS.exe
+c:\users\karol\documents\visual studio 2013\Projects\PhotoSMS\PhotoSMS\obj\Debug\PhotoSMS.pdb
+D:\satudia\dino\INO1CD399893\SourceCode\PhotoSMS\bin\Debug\PhotoSMS.exe.config
+D:\satudia\dino\INO1CD399893\SourceCode\PhotoSMS\obj\Debug\PhotoSMS.exe
+D:\satudia\dino\INO1CD399893\SourceCode\PhotoSMS\obj\Debug\PhotoSMS.pdb
